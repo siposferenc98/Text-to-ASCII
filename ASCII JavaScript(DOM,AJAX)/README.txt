@@ -1,0 +1,2 @@
+A js file csak hostolt oldalon működik, lokálisan az AJAX nem fog működni csak úgy. Kell hozzá egy oldal amin az input mező id-je "szoveg",
+a kimeneti textbox id-je "ki" és a gomb a "feltolt()" funkciót hívja meg. A js file mellett kell legyen a szerveren az "alphabet.txt".
